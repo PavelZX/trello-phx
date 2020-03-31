@@ -72,7 +72,7 @@
     "invariant": "^2.2.4",
     "isomorphic-fetch": "^2.2.1",
     "moment": "^2.22.2",
-    "next": "^7.0.2",
+    "next": "^9.3.3",
     "phoenix": "file:../deps/phoenix",
     "phoenix_html": "file:../deps/phoenix_html",
     "prop-types": "^15.6.2",
