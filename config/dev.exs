@@ -54,6 +54,6 @@ config :imcon, Imcon.Repo,
   adapter: Ecto.Adapters.Postgres,
   username: "postgres",
   password: "postgres",
-  database: "im_con",
+  database: "postgres",
   hostname: "localhost",
   pool_size: 10
